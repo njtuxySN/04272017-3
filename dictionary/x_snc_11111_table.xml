@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="11111 Table" max_length="40" name="x_snc_11111_table" type="collection"/>
+</database>
